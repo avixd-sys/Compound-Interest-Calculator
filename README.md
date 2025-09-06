@@ -9,4 +9,3 @@ CI = P( (1 + r/n)^(nt) - 1 )
 
 Run:
 Compile and run main method in either file.
-
